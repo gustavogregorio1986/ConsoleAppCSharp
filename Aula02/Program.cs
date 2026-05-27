@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace Aula02
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("A mensagem.");
+        }
+    }
+}
