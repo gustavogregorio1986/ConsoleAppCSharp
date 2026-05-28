@@ -3,4 +3,5 @@
   <Project Path="Aula03/Aula03.csproj" Id="21916f6b-3584-4aa4-911f-99480b3f01b1" />
   <Project Path="Aula04/Aula04.csproj" Id="fcd8b184-70a6-49b8-b410-b6a6dd82e730" />
   <Project Path="Estudo/Estudo.csproj" />
+  <Project Path="Variaveis/Variaveis.csproj" Id="fc1dd267-39da-4b3f-ac02-c3830cb8d44b" />
 </Solution>
