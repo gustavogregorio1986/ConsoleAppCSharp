@@ -12,7 +12,7 @@ namespace Variavel_II
              * ponto fliutuante -> 1.55, 1.90, -2000.2
              * texto -> string "escrevermos dentro "
              * 
-             * logica -> tur e ou false */
+             * logica -> true e ou false */
 
             int numero = 1; // atribuimos valor
             int x = 1 + 1; //atribuindo um expressão
