@@ -15,7 +15,7 @@ namespace Variavel_II
              * logica -> true e ou false */
 
             int numero = 1; // atribuimos valor
-            int x = 1 + 1; //atribuindo um expressão
+            int x = 1 + 1; //atribuindo uma expressão
 
             double d = 1.1 + 5.50;
             Console.WriteLine(d);
