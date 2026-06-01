@@ -2,6 +2,7 @@
   <Project Path="Aula02/Aula02.csproj" />
   <Project Path="Aula03/Aula03.csproj" Id="21916f6b-3584-4aa4-911f-99480b3f01b1" />
   <Project Path="Aula04/Aula04.csproj" Id="fcd8b184-70a6-49b8-b410-b6a6dd82e730" />
+  <Project Path="ConvertendoStrToInt/ConvertendoStrToInt.csproj" Id="a1687c09-beeb-466c-bad8-cd80bceea7b9" />
   <Project Path="Estudo/Estudo.csproj" />
   <Project Path="LendoOTeclado/LendoOTeclado.csproj" Id="91604734-24dd-4bf7-b20e-9b981612fac2" />
   <Project Path="Variaveis/Variaveis.csproj" Id="fc1dd267-39da-4b3f-ac02-c3830cb8d44b" />
