@@ -17,16 +17,30 @@ namespace Aula
             //    Console.WriteLine("O numero digitado é positivo");
             //}
 
+            //int num = 0;
+            //string texto = "O número digoitado é: ";
+            //Console.WriteLine("Digite um número qualquer: ");
+            //num = Convert.ToInt32(Console.ReadLine());
+
+            //if(num > 0)
+            //    Console.WriteLine(texto + " positivo");
+            // if(num < 0)
+            //    Console.WriteLine(texto + "negativo"); 
+            //}
+
             int num = 0;
-            string texto = "O número digoitado é: ";
-            Console.WriteLine("Digite um número qualquer: ");
+            Console.WriteLine("Digite um numero entre 1 até 10.");
             num = Convert.ToInt32(Console.ReadLine());
 
-            if(num > 0)
-                Console.WriteLine(texto + " positivo");
-             if(num < 0)
-                Console.WriteLine(texto + "negativo"); 
+            if (num > 10)
+            {
+                Console.WriteLine("O número digitado é maior que 10."); 
+            }
+            else //senão
+            {
+                Console.WriteLine("O número digitado é menor que 10.");
             }
         }
     }
+}
 
